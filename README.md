@@ -1,263 +1,214 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <meta name="description" content="My resume online version" />
-    <meta name="author" content="" />
-    <title>Resume</title>
-    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
-    <!-- Font Awesome icons (free version)-->
-    <script
-      src="https://use.fontawesome.com/releases/v5.13.0/js/all.js"
-      crossorigin="anonymous"
-    ></script>
-    <!-- Devicons language & dev tool icons-->
-    <link
-      rel="stylesheet"
-      href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"
-    />
-    <!-- Google fonts-->
-    <link
-      href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <link
-      href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i"
-      rel="stylesheet"
-      type="text/css"
-    />
-    <!-- Core theme CSS (includes Bootstrap)-->
-    <link href="css/styles.css" rel="stylesheet" />
-    
-  </head>
-  <body id="page-top">
-    <!-- Navigation-->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-      <a class="navbar-brand js-scroll-trigger" href="#page-top">
-        <span class="d-block d-lg-none">Nguyen Duy Phan</span>
-        <span class="d-none d-lg-block"
-          ><img
-            class="img-fluid img-profile rounded-circle mx-auto mb-2"
-            src="assets/img/profile.jpg"
-            alt=""
-        /></span>
-      </a>
-      <button
-        class="navbar-toggler"
-        type="button"
-        data-toggle="collapse"
-        data-target="#navbarSupportedContent"
-        aria-controls="navbarSupportedContent"
-        aria-expanded="false"
-        aria-label="Toggle navigation"
-      >
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav">
-          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-          <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#education">Education</a>
-          </li>
-        </ul>
-      </div>
-    </nav>
-    <!-- Page Content-->
-    <div class="container-fluid p-0">
-      <!-- About-->
-      <section class="resume-section" id="about">
-        <div class="resume-section-content">
-          <h1 class="mb-0">
-            Nguyen Duy
-            <span class="text-primary">Phan</span>
-          </h1>
-          <div class="subheading mb-5">
-            Linh Trung · Thu Duc, Ho Chi Minh 71308 · 0344 800 574 ·
-            <a href="mailto:nguyenduyphan2003@gmail.com">nguyenduyphan2003@gmail.com</a>
-          </div>
-          <p class="lead mb-5">
-            I'm a sophomore majoring in IT who can learn, gain knowledge and adapt quickly. I wish
-            to work in a challenging environment to improve and make the most of myself.
-          </p>
-          <div class="social-icons">
-            <a
-              class="social-icon"
-              href="https://www.linkedin.com/in/PhanhotboY"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i class="fab fa-linkedin-in"></i>
-            </a>
-            <a
-              class="social-icon"
-              href="https://github.com/PhanhotboY"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i class="fab fa-github"></i>
-            </a>
-            <a
-              class="social-icon"
-              href="https://join.skype.com/invite/vOLti1XfkOmq"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i class="fab fa-skype"></i>
-            </a>
-            <a
-              class="social-icon"
-              href="https://t.me/PhanhotboY"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <i class="fab fa-telegram"></i>
-            </a>
-          </div>
-        </div>
-      </section>
-      <hr class="m-0" />
-      <!-- Skills-->
-      <section class="resume-section" id="skills">
-        <div class="resume-section-content">
-          <h2 class="mb-5">Skills</h2>
-          <div class="subheading mb-3">Programming Languages & Tools</div>
-          <ul class="list-inline dev-icons">
-            <li class="list-inline-item">
-              <i class="devicon-nodejs-plain colored" title="NodeJS"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-react-original colored" title="ReactJS"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-nextjs-original-wordmark colored" title="NextJS"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-javascript-plain colored" title="JavaScript"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-typescript-plain colored" title="TypeScript"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-html5-plain colored" title="HTML5"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-css3-plain colored" title="CSS3"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-sass-original colored" title="SASS"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-mongodb-plain colored" title="MongoDB"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-postgresql-plain colored" title="PostgreSQL"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-redis-plain colored" title="Redis"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-bootstrap-plain colored" title="Bootstrap"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-tailwindcss-plain colored" title="TailwindCSS"></i>
-            </li>
-            <li class="list-inline-item">
-              <i class="devicon-github-original colored" title="GitHub"></i>
-            </li>
-          </ul>
-          <div class="subheading mb-3">Workflow</div>
-          <ul class="fa-ul mb-0">
-            <li>
-              <span class="fa-li"><i class="fas fa-check"></i></span>
-              Pixel-perfect, Responsive Design
-            </li>
-            <li>
-              <span class="fa-li"><i class="fas fa-check"></i></span>
-              RESTful APIs, Clear & secure
-            </li>
-            <li>
-              <span class="fa-li"><i class="fas fa-check"></i></span>
-              Cross Functional Teams
-            </li>
-            <li>
-              <span class="fa-li"><i class="fas fa-check"></i></span>
-              Flexible, Enthusiastic & Dedicated
-            </li>
-          </ul>
-        </div>
-      </section>
-      <hr class="m-0" />
-      <!-- Experience-->
-      <section class="resume-section" id="experience">
-        <div class="resume-section-content">
-          <h2 class="mb-5">Experience</h2>
-          <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="flex-grow-1">
-              <h3 class="mb-0">Web Developer</h3>
-              <div class="subheading mb-3">Personal Project</div>
-              <p class="lh-lg">
-                Clone
-                <a href="https://shopee.com" target="_blank">Shoppe</a>: An Ecommerce Web
-                Application
-                <br />
-                <b>Back-end:</b> NodeJS (ExpressJS), PostgreSQL, Redis, Stripe, AWS S3
-                <br />
-                <b>Front-end:</b> ReactJS, Redux, HTML5, CSS3, JavaScript, Bootstrap
-              </p>
-            </div>
-            <div class="flex-shrink-0"><span class="text-primary">August 2022 - Present</span></div>
-          </div>
-        </div>
-      </section>
-      <hr class="m-0" />
-      <!-- Education-->
-      <section class="resume-section" id="education">
-        <div class="resume-section-content">
-          <h2 class="mb-5">Education</h2>
-          <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-            <div class="flex-grow-1">
-              <h3 class="mb-0">University of Information Technology</h3>
-              <div class="subheading mb-3">Bachelor of Information Technology</div>
-              <div>Web Development</div>
-            </div>
-            <div class="flex-shrink-0">
-              <span class="text-primary">October 2021 - Present</span>
-            </div>
-          </div>
-        </div>
-      </section>
-      <hr class="m-0" />
-      <!-- Awards-->
-      <!-- <section class="resume-section" id="awards">
-        <div class="resume-section-content">
-          <h2 class="mb-5">Awards & Certifications</h2>
-          <ul class="fa-ul mb-0">
-            <li>
-              <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-              Google Analytics Certified Developer
-            </li>
-            <li>
-              <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-              1
-              <sup>st</sup>
-              Place - University of Colorado Boulder - Emerging Tech Competition 2009
-            </li>
-          </ul>
-        </div>
-      </section> -->
+<style type='text/css'>*,*::before,*::after{
+  box-sizing:border-box;
+}
+:root{
+  --clr-dark:rgb(13,17,19);
+  --clr-light:#fff;
+  --clr-secondary:#0A84FF;
+}
+body{
+    font-family:sans-serif;
+  background:var(--clr-dark);
+  color:var(--clr-light);
+  min-height:100vh;
+  display:grid;
+  place-items:center;
+}
+h1,h2,h3,p{
+  margin:0;
+}
+img{
+  max-width:100%;
+}
+.btn{
+  cursor:pointer;
+  padding:.5em 1em;
+  border:0;
+  background:var(--clr-secondary);
+  color:var(--clr-light);
+  font-weight:bold;
+  border-radius:12px; 
+}
+.game{
+  position:relative;
+  width:12rem;
+}
+.streamers{
+      display:flex;
+  text-align:center;
+  img{
+    width:2rem;
+    height:2rem;
+    border-radius:50%;
+  }
+}
+.front{
+  transition:200ms;
+  & > img{
+    border-radius:12px;
+  }
+  .name{
+    margin:0.75em 0;
+  }
+  .status{
+        display:flex;
+    justify-content:space-between;
+  align-items:center;  
+}
+  .streamers img{
+    border:1px solid var(--clr-dark);
+    &:nth-child(1){
+                 z-index:1;
+ transform:translateX(15px);
+    }
+    &:nth-child(2){
+      transform:translateX(10px);
+    }
+  }
+}
+.back{
+ position:absolute;
+  top:56%;
+  left:0;
+  right:0;
+  opacity:0;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:1em;
+  .streaming-info{
+    columns:2;
+    column-rule:1px solid rgba(255,255,255,0.6); 
+  }
+  .game-stat{
+    font-size:1.2rem;
+    text-align:center;
+    span{
+      display:block;
+      font-size:.8rem;
+    }
+  }
+  .streamers{
+    display:flex;
+  }
+}
+.backgroundWrapper{
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background:rgb(36, 40, 42);
+  z-index:-1;
+  transform:scale(.2,.8);
+  opacity:0;
+  border-radius:12px;
+}
+.game:hover {
+  .front{
+    transform:translateY(-25%) scale(.8);
+    .name{
+     animation:gameName 150ms forwards;
+    }
+    .status{
+      opacity:0;
+    }
+  }
+  .back{
+    opacity:1;
+    .streamers{
+      width:100%;
+      justify-content:space-between;
+    }
+    .streamer{
+      font-size:.9rem;
+    }
+    .name{
+      font-weight:bold;
+    }
+  }
+  .rank{
+    top:-35px;
+    right:-30px;
+  }
+  .backgroundWrapper{
+      transition:transform 200ms ease-in-out, opacity 100ms linear;
+    opacity:1;
+    transform:scale(1.4,1.2);
+  }
+}
+.rank{
+  position:absolute;
+  right:15px;
+  font-weight:bold;
+  font-size:1.12rem;
+  background:rgba(0,0,0,0.75);
+  padding:.5em .5em;
+  clip-path: polygon(100% 0%, 100% 100%, 50% 85%, 0 100%,0 0);
+  transition:250ms ease-in-out;
+}
+@keyframes gameName {
+  0%{
+    text-align:left;
+    opacity:1;
+  }
+  20%{
+    text-align:left;
+    opacity:0;
+  }
+  50%{
+    text-align:center;
+    opacity:0;
+  }
+  100%{
+    text-align:center;
+    opacity:1;
+  }
+}
+</style>
+<div class="game">
+  <div class="rank">2</div>
+<div class="front">
+  <img src="https://i.popdog.com/00dffacb-a67b-11ea-a9cd-0a58a9feac2a/rc/279x372-c.jpg" alt="game">
+  <h3 class="name">Just Chatting</h3>
+  <div class="status">
+    <p class="viewers">132.5k</p>
+    <div class="streamers">
+      <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="">
+      <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="">
+      <img src="https://images.unsplash.com/photo-1510227272981-87123e259b17?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=3759e09a5b9fbe53088b23c615b6312e" alt="">
     </div>
-    <!-- Bootstrap core JS-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
-    <!-- Third party plugin JS-->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
-    <!-- Core theme JS-->
-    <script src="js/scripts.js"></script>
-  </body>
-</html>
+  </div>
+</div>
+<div class="back">
+  <div class="streaming-info">
+    <p class="game-stat">174.4k <span>Watching</span></p>
+    <p class="game-stat">3,172<span>Streams</span></p>
+  </div>
+  <button class="btn">See more streams</button>
+ <div class="streamers">
+   <div class="streamer">
+     <div class="icon">
+       <img src="https://randomuser.me/api/portraits/men/32.jpg" alt="">
+     </div>
+   <p class="name">gamer 1</p>
+   <p class="number">18k</p>
+     </div>
+    <div class="streamer">
+      <div class="icon">
+        <img src="https://randomuser.me/api/portraits/women/44.jpg" alt="">
+      </div>
+   <p class="name">gamer 2</p>
+   <p class="number">9,600</p>
+     </div>
+    <div class="streamer">
+      <div class="icon">
+         <img src="https://images.unsplash.com/photo-1510227272981-87123e259b17?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=200&fit=max&s=3759e09a5b9fbe53088b23c615b6312e" alt="">
+      </div>
+   <p class="name">gamer 3</p>
+   <p class="number">7,407</p>
+     </div>
+  </div>
+  </div>
+  <div class="backgroundWrapper"></div>
+  </div>
