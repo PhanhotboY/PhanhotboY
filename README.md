@@ -12,6 +12,7 @@ I am a Web Developer, where I specialize in Develop a secure API using NodeJS (E
 </p>
 
 ---
+
 <p align="center">
   <a href="https://nodejs.org/en" target="_blank">
     <img src="https://img.shields.io/badge/NodeJS-%23339933?style=flat-square&logo=node.js&logoColor=white" alt="NodeJS">
@@ -40,4 +41,8 @@ I am a Web Developer, where I specialize in Develop a secure API using NodeJS (E
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   </a>
+</p>
+
+<p align="center">
+   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=PhanhotboY&layout=compact'>
 </p>
