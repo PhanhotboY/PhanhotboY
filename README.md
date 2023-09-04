@@ -27,7 +27,7 @@ I am a Web Developer, where I specialize in Develop a secure API using NodeJS (E
     <img src="https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   </a>
   <a href="https://redis.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis">
+    <img src="https://img.shields.io/badge/Redis-%23DC382D?style=flat-square&logo=redis&logoColor=black" alt="Redis">
   </a>
   <a href="https://html.com/" target="_blank">
     <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" alt="HTML">
@@ -36,7 +36,10 @@ I am a Web Developer, where I specialize in Develop a secure API using NodeJS (E
     <img src="https://img.shields.io/badge/CSS-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" alt="CSS">
   </a>
   <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?style=flat-square&logo=react&logoColor=white" alt="ReactJS">
+    <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?style=flat-square&logo=react&logoColor=black" alt="ReactJS">
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/NextJS-%23000000?style=flat-square&logo=next.js&logoColor=white" alt="ReactJS">
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
