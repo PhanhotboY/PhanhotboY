@@ -38,8 +38,8 @@ I am a Web Developer, where I specialize in Developing a secure API using NodeJS
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/ReactJS-%2361DAFB?style=flat-square&logo=react&logoColor=black" alt="ReactJS">
   </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/NextJS-%23000000?style=flat-square&logo=next.js&logoColor=white" alt="ReactJS">
+  <a href="https://remix.run/" target="_blank">
+    <img src="https://img.shields.io/badge/Remix-%23000000?style=flat-square&logo=remix&logoColor=white" alt="ReactJS">
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white" alt="Docker">
