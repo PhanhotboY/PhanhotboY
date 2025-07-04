@@ -2,7 +2,8 @@
 # Hi 👋 I am Phan Nguyen! 
 I am a Web Developer, where I specialize in Developing a secure API using NodeJS (ExpressJS) with TypeScript.
 
-- 🌐 Visit my [Terminal Portfolio](https://portfolio.phannd.me/) for more information and to get in touch.
+- 🌐 Visit my [Portfolio](https://phannd.me/) for more information and to get in touch.
+- 💻 Take a look at my [Terminal Portfolio](https://terminal.phannd.me) and enjoy.
 
 ---
 
